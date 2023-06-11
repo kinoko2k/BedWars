@@ -1,11 +1,11 @@
-# Screaming BedWars
+# Screaming BedWars - 日本語訳
 [![Build and publish BedWars master](https://github.com/ScreamingSandals/BedWars/actions/workflows/build-master.yml/badge.svg)](https://github.com/ScreamingSandals/BedWars/actions/workflows/build-master.yml)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2b72901b108f4577a135faee054d0d6d)](https://www.codacy.com/gh/ScreamingSandals/BedWars/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ScreamingSandals/BedWars&amp;utm_campaign=Badge_Grade)
 [![Translation status](http://weblate.screamingsandals.org/widgets/bedwars/-/0-3-x/svg-badge.svg)](https://github.com/ScreamingSandals/BedWarsLanguage/tree/0.3.x)
 [![Discord](https://img.shields.io/discord/582271436845219842?logo=discord)](https://discord.gg/4xB54Ts)
 [![Spigot](https://img.shields.io/spiget/downloads/63714)](https://www.spigotmc.org/resources/screaming-bedwars-1-9-4-1-17-1.63714/)
 
-Flexible BedWars plugin formerly coded as a replacement for BedwarsRel.
+以前の、「BedwarsRel」の代替として開発されていた柔軟な「BedWars」Pluginです。
 
 Supported versions: \[1.9.4 - 1.19\]. Recommended version: \[1.17.1/1.18.2\]
 
