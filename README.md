@@ -11,7 +11,7 @@
 
 バージョン 0.2.x を使用している場合は、[branch](https://github.com/ScreamingSandals/BedWars/tree/ver/0.2.x)を見てください。
 
-## Support
+## 対応
 サポートが必要な場合は、[Discord](https://discord.gg/4xB54Ts) でお問い合わせください。
 
 すでに回答されている質問がたくさんあります。古いメッセージを見直してからお問い合わせください。同じ質問を何度も繰り返すことは私たちの迷惑になります。
